@@ -24,5 +24,9 @@ input[type=text]{
 
 .verde{
     background-color: green;
-    color: black;
+    color: black        ;
+}
+
+#telefone{
+    display: none;/*Não vai aparecer o telefone*/
 }

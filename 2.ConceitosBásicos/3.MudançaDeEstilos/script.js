@@ -18,3 +18,8 @@ function limpar(){
     document.getElementById('titulo').classList.remove('vermelho');
     document.getElementById('titulo').classList.remove('verde');
 }
+
+function mostrarTelefone(elemento){
+    elemento.style.display = 'none';
+    document.getElementById('telefone').style.display = "block";  
+}

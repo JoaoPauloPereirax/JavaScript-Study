@@ -1,3 +1,5 @@
+//OBJETOS
+
 let arrays1 = ['nome1','nome2','nome3','nome4','nome5'];
 let arrays2 = ['nome1',
 'nome2',

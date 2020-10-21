@@ -1,3 +1,4 @@
+//Mudanças de Estilos
 function azul(){
     limpar();
     document.getElementById('titulo').classList.add('azul');

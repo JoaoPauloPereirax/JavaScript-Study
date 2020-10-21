@@ -1,3 +1,4 @@
+//Eventos de Click
 function clicando(){
     alert ("Você clicou no botão!");
 }

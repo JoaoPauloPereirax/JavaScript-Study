@@ -16,10 +16,10 @@
 
 ### Conceitos Básicos
 
-- Tipos de dados.
-- Funções
-- Eventos de CLick.
-- Eventos de Teclado.
+- Tipos de dados e manipulação do HTML via getElementById.
+- Como utilzar funções e seus parâmetros.
+- Eventos de click e conceito de this. (onclick, onmouseover)
+- Eventos de Teclado. (onkeydown, onkeyup)
 - Mudança de estilos.
-- Arrays.
+- Arrays são o mesmo que vetores em C.
 - Objetos.

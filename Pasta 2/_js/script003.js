@@ -1,4 +1,4 @@
-//Eventos de Teclado
+//EVENTOS DE TECLADO
 function digitou(){
     console.log('Você digitou!');
 }

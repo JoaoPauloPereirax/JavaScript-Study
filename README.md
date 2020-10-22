@@ -23,3 +23,6 @@
 - Mudança de estilos.
 - Arrays são o mesmo que vetores em C.
 - Objetos.
+- Menu de Navegação: Projeto prático que visa fixar o conteúdo estudado por meio de um exercício prático no qual a tarefa era criar a opção de mostrar e esconder o menu de forma dinâmica.
+- Switch.
+- Laços de repetição: For e While

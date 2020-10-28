@@ -31,4 +31,5 @@
 
 ### Manipulações, Arrow, Ajax, etc.
 
-- Métodos manipulação de strings.(length,indexOf,slice,substring,substr)
+- Métodos manipulação de strings.(length,indexOf,slice,substring,substr, etc)
+- Métodos de manipulação de numbers.(toString,toFixed,parseInt,parseFloat)

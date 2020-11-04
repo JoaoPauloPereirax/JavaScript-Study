@@ -34,3 +34,5 @@
 - Métodos manipulação de strings.(length, indexOf, slice, substring, substr, etc)
 - Métodos de manipulação de numbers.(toString, toFixed, parseInt, parseFloat)
 - Métodos de Arrays.(Join, indexOf, pop, shift, push, etc)
+- Métodos de Data (Classe Date).(set..., get..., )
+- Funções relacionadas a Matemática (Classe Math) 
